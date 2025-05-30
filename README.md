@@ -4,6 +4,9 @@ This is a **Streamlit web application** that forecasts daily alcohol consumption
 
 ---
 
+# Streamlit Deploy App Link
+# https://forecasting-and-recommdation-system-for-hotel-chain-and-bar.streamlit.app/
+---
 ## 📌 Features
 
 - 📅 **30-Day Forecasts** using:
